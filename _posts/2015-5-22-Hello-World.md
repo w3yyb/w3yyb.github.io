@@ -8,5 +8,5 @@ excepted the domain name,all for free.
 
 
 
-Fork me  [W3yyb](https://github.com/w3yyb) on GitHub.
+Follow me  [W3yyb](https://github.com/w3yyb) on GitHub.
 
