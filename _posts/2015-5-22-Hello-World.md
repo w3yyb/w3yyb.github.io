@@ -1,9 +1,11 @@
+
 ---
 layout: post
 title: My github blog is now running!
 ---
 
-真不错。
+It's very nice. Powered by [github pages](https://pages.github.com/) and [Jekyll](http://jekyll.bootcss.com/).
+excepted the domain name,all for free.
 
 
 
