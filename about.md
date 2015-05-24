@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-A PHP developer! love Open Source!
+A PHP developer! Love Open Source!
 
 ### More Information
 
-My another blog is http://w3yyb.sinaapp.com/.
+My another blog is [sae blog](http://w3yyb.sinaapp.com).
 
 Weibo: @Lenixer
 
