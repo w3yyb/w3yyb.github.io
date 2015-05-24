@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: My github blog is now running!
