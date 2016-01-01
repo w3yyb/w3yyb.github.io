@@ -8,7 +8,7 @@ A PHP developer! Love Open Source!
 
 ### More Information
 
-My another blog is [sae blog](http://w3yyb.sinaapp.com).
+My another blog is [sae blog](http://blog.lenix.xyz).
 
 Weibo: @Lenixer
 
