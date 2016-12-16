@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My github blog is now running!
+title: 我的Github博客网站开通了!
 ---
 
-It's very nice. Powered by [github pages](https://pages.github.com/) and [Jekyll](http://jekyll.bootcss.com/).
-excepted the domain name,all for free.
+感觉非常好. 基于 [github pages](https://pages.github.com/) 和 [Jekyll](http://jekyll.bootcss.com/).
+除了域名，一切都是免费的！
 
 
 
