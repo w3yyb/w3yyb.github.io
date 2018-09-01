@@ -10,7 +10,7 @@ Born in 1970s. Located in Beijing, China.
 
 ### More Information
 
-My another blog is [sae blog](http://blog.lenix.xyz).
+My main blog is [blog](http://blog.p2hp.com).
 
 Weibo: @Lenixer
 
