@@ -14,9 +14,9 @@ My main blog is [blog](http://blog.p2hp.com).
 
 Weibo: @Lenixer
 
-wechat:  mLenix  (online)
+Wechat:  mLenix
 
-QQ:170850021(online)
+QQ:170850021
 
 
 ### Contact me
