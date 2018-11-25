@@ -3,8 +3,8 @@ layout: post
 title: 我的Github博客网站开通了!
 ---
 
-感觉非常好. 基于 [github pages](https://pages.github.com/) 和 [Jekyll](http://jekyll.bootcss.com/).
-除了域名，一切都是免费的！
+非常棒，这是基于 [github pages](https://pages.github.com/) 和 [Jekyll](http://jekyll.bootcss.com/).
+！
 
 
 
